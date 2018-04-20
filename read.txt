@@ -1,0 +1,8 @@
+Por cada 100 líneas de código de clases de servicios deben ser 20 de log
+Cada clase debe tener 100% Javadoc
+Por cada 100 líneas de código existen 50 líneas de pruebas
+La cobertura de las UT debe ser de al menos .5
+Las pruebas unitarias deben cubrir casos críticos
+Apego a estándares
+DoD
+
